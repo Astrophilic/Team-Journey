@@ -25,5 +25,5 @@ Hi , i am pankaj, i am in my third year of studies towards a bachelor course, i 
 I look forward to an amazing journey in Hack a Bit.
 
 # Pranav
-Hello, I am Pranav, I am a pre-final year student of Information Technology.
+Hello, I am Pranav, I am a pre-final year student of Information Technology. I like to code. I am really excited for hackABIT.
 
