@@ -26,5 +26,8 @@ I look forward to an amazing journey in Hack a Bit.
 
 # Pranav
 Hello, I am Pranav, I am a pre-final year student of Information Technology. I like to code. I am really excited for hackABIT.
-
 Here's my github link - [Link](https://github.com/pranavraj219/)
+
+# Sarthak
+Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology.
+
