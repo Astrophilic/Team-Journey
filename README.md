@@ -24,3 +24,6 @@ while( alive ) {
 Hi , i am pankaj, i am in my third year of studies towards a bachelor course, i am really excited to work with my very smart teammates.
 I look forward to an amazing journey in Hack a Bit.
 
+# Pranav
+Hello, I am Pranav, I am a pre-final year student of Information Technology.
+
