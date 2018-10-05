@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Team Heavy Light Dudes
 
-You can use the [editor on GitHub](https://github.com/Astrophilic/Team-Journey/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+<!--You can use the [editor on GitHub](https://github.com/736f6e6f726f7573/Team-journey/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+-->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Hack a Bit Team
 
-```markdown
-Syntax highlighted code block
+we are a team of third year students who are building a project for hack a bit and we are really excited for the same.
+we shall keep this page updated as we move ahead with our project.
+just as to init, we introduce ourselves.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+while( alive ) {
+  eat();
+  sleep();
+  code();
+  repeat();
+ }
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```
+# Pankaj 
+Hi , i am pankaj, i am in my third year of studies towards a bachelor course, i am really excited to work with my very smart teammates.
+I look forward to an amazing journey in Hack a Bit.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Astrophilic/Team-Journey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
