@@ -30,3 +30,7 @@ Hello, I am **Pranav**, I am a pre-final year student of Information Technology.
 Here's my github link - [Link](https://github.com/pranavraj219/)
 Other links:
 - CodeForces _[Link](http://codeforces.com/profile/WDragon)_  :P
+
+# Sarthak
+Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology.
+
