@@ -30,3 +30,9 @@ Hello, I am **Pranav**, I am a pre-final year student of Information Technology.
 Here's my github link - [Link](https://github.com/pranavraj219/)
 Other links:
 - CodeForces _[Link](http://codeforces.com/profile/WDragon)_  :P
+
+Things I like :-
+- Playing guitar
+- Listening Music
+- Reading books (Potter Head :P)
+
