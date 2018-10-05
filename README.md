@@ -4,7 +4,7 @@
 -->
 
 
-
+![Image](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1)
 ## Hack a Bit Team
 
 we are a team of third year students who are building a project for hack a bit and we are really excited for the same.
