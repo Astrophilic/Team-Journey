@@ -29,6 +29,8 @@ Hello, I am Pranav, I am a pre-final year student of Information Technology. I l
 
 # Sarthak
 Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology. My friends call me **sopho** (sometimes).
+Wanna connect? Checkout the following links:
+-[FaceBook](https://www.facebook.com/sarthakgupta072)
 
 # Abhishek
 
