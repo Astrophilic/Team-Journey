@@ -4,7 +4,8 @@
 -->
 
 
-![Image](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1)
+![Image](https://cdn-images-1.medium.com/max/2000/1*9Cqyu3Lx4BKHUZShGe5cuQ.jpeg)
+
 ## HackABit Team
 
 we are a team of third year students who are building a project for hack a bit and we are really excited for the same.
@@ -27,10 +28,24 @@ I look forward to an amazing journey in Hack a Bit.
 # Pranav
 Hello, I am **Pranav**, I am a pre-final year student of Information Technology. I like to code. I am really excited for hackABIT.
 
-Here's my github link - [Link](https://github.com/pranavraj219/)
+Here's my github link - [Github](https://github.com/pranavraj219/)
 Other links:
-- CodeForces _[Link](http://codeforces.com/profile/WDragon)_  :P
+- CodeForces _[CodeForces](http://codeforces.com/profile/WDragon)_  :P
+
+Things I like :-
+- Playing guitar
+- Listening Music
+- Reading books (Potter Head :P)
 
 # Sarthak
-Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology.
+Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology. My friends call me **sopho** (sometimes).
+Wanna connect? Checkout the following links:
+-[FaceBook](https://www.facebook.com/sarthakgupta072)
+
+# Abhishek
+
+Heya..! I am [Abhishek Singh Saini](https://github.com/AbhiTaker), also Known as **AbhiTaker**. I like turning IDEAS into CODE. Currently thrilled to turn the ideas, we currently have for HackaBit, into code.
+
+-[FaceBook](https://www.facebook.com/Abhitaker4)
+-[Twitter](https://twitter.com/abhi_taker)
 
