@@ -28,7 +28,7 @@ I look forward to an amazing journey in Hack a Bit.
 Hello, I am Pranav, I am a pre-final year student of Information Technology. I like to code. I am really excited for hackABIT.
 
 # Sarthak
-Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology.
+Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology. My friends call me **sopho** (spmetimes).
 
 # Abhishek
 
