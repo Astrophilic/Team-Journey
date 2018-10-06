@@ -3,8 +3,8 @@
 <!--You can use the [editor on GitHub](https://github.com/736f6e6f726f7573/Team-journey/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 -->
 
-
 ![Image](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1)
+
 ## HackABit Team
 
 we are a team of third year students who are building a project for hack a bit and we are really excited for the same.
@@ -31,3 +31,9 @@ Here's my github link - [Link](https://github.com/pranavraj219/)
 # Sarthak
 Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology.
 
+# Abhishek
+
+Heya..! I am [Abhishek Singh Saini](https://github.com/AbhiTaker), also Known as **AbhiTaker**. I like turning IDEAS into CODE. Currently thrilled to turn the ideas, we currently have for HackaBit, into code.
+
+-[FaceBook](https://www.facebook.com/Abhitaker4)
+-[Twitter](https://twitter.com/abhi_taker)
