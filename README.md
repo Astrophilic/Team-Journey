@@ -3,8 +3,6 @@
 <!--You can use the [editor on GitHub](https://github.com/736f6e6f726f7573/Team-journey/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 -->
 
-
-![Image](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1)
 ## HackABit Team
 
 we are a team of third year students who are building a project for hack a bit and we are really excited for the same.
