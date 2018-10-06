@@ -34,4 +34,4 @@ Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technolog
 
 Heya..! I am [Abhishek Singh Saini](https://github.com/AbhiTaker), also Known as **AbhiTaker**. I like turning IDEAS into CODE. Currently thrilled to turn the ideas, we currently have for HackaBit, into code.
 
-[![Image](https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg | width = 50*50)](https://www.facebook.com/Abhitaker4)
+[![Image](https://upload.wikimedia.org/wikipedia/commons/c/c2/F_icon.svg = 50*50)](https://www.facebook.com/Abhitaker4)
