@@ -4,8 +4,8 @@
 -->
 
 
-
-## Hack a Bit Team
+![Image](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1)
+## HackABit Team
 
 we are a team of third year students who are building a project for hack a bit and we are really excited for the same.
 we shall keep this page updated as we move ahead with our project.
@@ -25,7 +25,16 @@ Hi , i am pankaj, i am in my third year of studies towards a bachelor course, i 
 I look forward to an amazing journey in Hack a Bit.
 
 # Pranav
-Hello, I am Pranav, I am a pre-final year student of Information Technology. I like to code. I am really excited for hackABIT.
+Hello, I am **Pranav**, I am a pre-final year student of Information Technology. I like to code. I am really excited for hackABIT.
+
+Here's my github link - [Link](https://github.com/pranavraj219/)
+Other links:
+- CodeForces _[Link](http://codeforces.com/profile/WDragon)_  :P
+
+Things I like :-
+- Playing guitar
+- Listening Music
+- Reading books (Potter Head :P)
 
 # Sarthak
 Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology.
