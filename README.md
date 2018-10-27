@@ -36,8 +36,10 @@ Things I like :-
 
 # Sarthak
 Hi, I am Gupta...Sarthak Gupta. I am a 3rd year student in Information Technology. My friends call me **sopho** (sometimes).
+Things I like: I am exploring :P
 Wanna connect? Checkout the following links:
--[FaceBook](https://www.facebook.com/sarthakgupta072)
+-[FaceBook](https://www.facebook.com/sarthakgupta072)  
+
 -[GitHub](https://github.com/sarthak-sopho)
 
 # Abhishek
